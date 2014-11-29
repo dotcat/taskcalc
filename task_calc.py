@@ -43,8 +43,6 @@ class TaskCalc():
 
 
 
-
-
 if __name__ == '__main__':
     pom = TaskCalc(7, t)
     print(pom.pretty_duration())
